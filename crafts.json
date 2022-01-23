@@ -28,7 +28,7 @@
         },
         {
             "id": 1,
-            "item_name": "JungleAxe",
+            "item_name": "Jungle Axe",
             "description": "A powerful Wooden Axe which can break multiple logs in a single hit!",
             "rairity" : "Epic",
             "type": "tool",
@@ -50,6 +50,66 @@
                 }
             },  
             "other": "Jungle Wood VII"
+        },
+        {
+            "id": 2,
+            "item_name": "Young Dragon Helmet",
+            "description": [
+                "Health: +70",
+                "Defense: +110",
+                "Speed: +20",
+                "",
+                "Full Set Bonus: Young Blood",
+                "Gain 70 Walk Speed while",
+                "you are above 50% HP.",
+                "+100 Walk Speed Cap"
+            ],
+            "rairity" : "Legendary",
+            "type": "armor, boots",
+            "recipe": {
+                "A1": "YOUNG_FRAGMENT:10",
+                "A2": "YOUNG_FRAGMENT:10",
+                "A3": "YOUNG_FRAGMENT:10",
+                "B1": "YOUNG_FRAGMENT:10",
+                "B2": "",
+                "B3": "YOUNG_FRAGMENT:10",
+                "C1": "",
+                "C2": "",
+                "C3": "",
+                 "1": {
+                    "YOUNG_FRAGMENT": "50"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "item_name": "Young Dragon Chestplate",
+            "description": [
+                "Health: +120",
+                "Defense: +160",
+                "Speed: +20",
+                "",
+                "Full Set Bonus: Young Blood",
+                "Gain +70§7 Walk Speed while",
+                "you are above 50% HP.",
+                "+100 Walk Speed Cap"
+            ],
+            "rairity" : "Legendary",
+            "type": "armor, chestplate",
+            "recipe": {
+                "A1": "YOUNG_FRAGMENT:10",
+                "A2": "",
+                "A3": "YOUNG_FRAGMENT:10",
+                "B1": "YOUNG_FRAGMENT:10",
+                "B2": "YOUNG_FRAGMENT:10",
+                "B3": "YOUNG_FRAGMENT:10",
+                "C1": "YOUNG_FRAGMENT:10",
+                "C2": "YOUNG_FRAGMENT:10",
+                "C3": "YOUNG_FRAGMENT:10",
+                 "1": {
+                    "YOUNG_FRAGMENT": "80"
+                }
+            }
         }
     ]
 }
