@@ -1,0 +1,55 @@
+{
+    "items_number": 1,
+    "items" : [
+        {
+            "id": 0,
+            "item_name": "Treecapitator",
+            "description": "A forceful Gold Axe which can break a large amount of logs in a single hit!",
+            "rairity" : "Epic",
+            "type": "tool",
+            "recipe": {
+                "A1": "ENCHANTED_OBSIDIAN:64",
+                "A2": "ENCHANTED_OBSIDIAN:64",
+                "A3": "ENCHANTED_OBSIDIAN:64",
+                "B1": "ENCHANTED_OBSIDIAN:64",
+                "B2": "JUNGLE_AXE:1",
+                "B3": "ENCHANTED_OBSIDIAN:64",
+                "C1": "ENCHANTED_OBSIDIAN:64",
+                "C2": "ENCHANTED_OBSIDIAN:64",
+                "C3": "ENCHANTED_OBSIDIAN:64",
+                "1": {
+                    "ENCHANTED_OBSIDIAN": "512"
+                },
+                "2":{
+                    "JUNGLE_AXE": "1"
+                }
+            },
+            "other": "Requires: Obsidian VIII"
+        },
+        {
+            "id": 1,
+            "item_name": "JungleAxe",
+            "description": "A powerful Wooden Axe which can break multiple logs in a single hit!",
+            "rairity" : "Epic",
+            "type": "tool",
+            "recipe": {
+                "A1": "",
+                "A2": "ENCHANTED_JUNGLE_LOG:1",
+                "A3": "ENCHANTED_JUNGLE_LOG:1",
+                "B1": "",
+                "B2": "STICK:1",
+                "B3": "ENCHANTED_JUNGLE_LOG:1",
+                "C1": "",
+                "C2": "STICK:1",
+                "C3": "",
+                 "1": {
+                    "ENCHANTED_JUNGLE_LOG": "3"
+                },
+                "2":{
+                    "STICK": "2"
+                }
+            },  
+            "other": "Jungle Wood VII"
+        }
+    ]
+}
