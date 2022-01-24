@@ -2,7 +2,7 @@
 
 I was doing a little project with hypixel crafts and didnt found API that provides crafts, so I decided to create my own API.
 
-It currently contains 14 items crafts, adding more soon.
+It currently contains 38 items crafts, adding more soon.
 
 Planning to add JSON for each item separately soon.
 
