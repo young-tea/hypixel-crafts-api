@@ -90,7 +90,7 @@
                 "Speed: +20",
                 "",
                 "Full Set Bonus: Young Blood",
-                "Gain +70§7 Walk Speed while",
+                "Gain +70 Walk Speed while",
                 "you are above 50% HP.",
                 "+100 Walk Speed Cap"
             ],
@@ -108,6 +108,318 @@
                 "C3": "YOUNG_FRAGMENT:10",
                  "1": {
                     "YOUNG_FRAGMENT": "80"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "item_name": "Young Dragon Leggings",
+            "description": [
+                "Health: +100",
+                "Defense: +140",
+                "Speed: +20",
+                "",
+                "Full Set Bonus: Young Blood",
+                "Gain +70 Walk Speed while",
+                "you are above 50% HP.",
+                "+100 Walk Speed Cap"
+            ],
+            "rairity" : "Legendary",
+            "type": "armor, leggings",
+            "recipe": {
+                "A1": "YOUNG_FRAGMENT:10",
+                "A2": "YOUNG_FRAGMENT:10",
+                "A3": "YOUNG_FRAGMENT:10",
+                "B1": "YOUNG_FRAGMENT:10",
+                "B2": "",
+                "B3": "YOUNG_FRAGMENT:10",
+                "C1": "YOUNG_FRAGMENT:10",
+                "C2": "",
+                "C3": "YOUNG_FRAGMENT:10",
+                 "1": {
+                    "YOUNG_FRAGMENT": "70"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "item_name": "Young Dragon Boots",
+            "description": [
+                "Health: +60",
+                "Defense: +90",
+                "Speed: +20",
+                "",
+                "Full Set Bonus: Young Blood",
+                "Gain +70 Walk Speed while",
+                "you are above 50% HP.",
+                "+100 Walk Speed Cap"
+            ],
+            "rairity" : "Legendary",
+            "type": "armor, boots",
+            "recipe": {
+                "A1": "",
+                "A2": "",
+                "A3": "",
+                "B1": "YOUNG_FRAGMENT:10",
+                "B2": "",
+                "B3": "YOUNG_FRAGMENT:10",
+                "C1": "YOUNG_FRAGMENT:10",
+                "C2": "",
+                "C3": "YOUNG_FRAGMENT:10",
+                 "1": {
+                    "YOUNG_FRAGMENT": "40"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "item_name": "Old Dragon Helmet",
+            "description": [
+                "Health: +90",
+                "Defense: +110",
+                "",
+                "Full Set Bonus: Old Blood",
+                "Increases the strength of",
+                "Growth, Protection,",
+                "9Feather Falling, Sugar Rush",
+                "and True Protection",
+                "while worn."],
+            "rairity" : "Legendary",
+            "type": "armor, boots",
+            "recipe": {
+                "A1": "OLD_FRAGMENT:10",
+                "A2": "OLD_FRAGMENT:10",
+                "A3": "OLD_FRAGMENT:10",
+                "B1": "OLD_FRAGMENT:10",
+                "B2": "",
+                "B3": "OLD_FRAGMENT:10",
+                "C1": "",
+                "C2": "",
+                "C3": "",
+                 "1": {
+                    "OLD_FRAGMENT": "50"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "item_name": "Old Dragon Chestplate",
+            "description": [
+                "Health: +150",
+                "Defense: +160",
+                "",
+                "Full Set Bonus: Old Blood",
+                "Increases the strength of",
+                "Growth, Protection,",
+                "9Feather Falling, Sugar Rush",
+                "and True Protection",
+                "while worn."],
+            "rairity" : "Legendary",
+            "type": "armor, chestplate",
+            "recipe": {
+                "A1": "OLD_FRAGMENT:10",
+                "A2": "",
+                "A3": "OLD_FRAGMENT:10",
+                "B1": "OLD_FRAGMENT:10",
+                "B2": "OLD_FRAGMENT:10",
+                "B3": "OLD_FRAGMENT:10",
+                "C1": "OLD_FRAGMENT:10",
+                "C2": "OLD_FRAGMENT:10",
+                "C3": "OLD_FRAGMENT:10",
+                 "1": {
+                    "OLD_FRAGMENT": "80"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "item_name": "Old Dragon Leggings",
+            "description": [
+                "Health: +130",
+                "Defense: +140",
+                "",
+                "Full Set Bonus: Old Blood",
+                "Increases the strength of",
+                "Growth, Protection,",
+                "9Feather Falling, Sugar Rush",
+                "and True Protection",
+                "while worn."],
+            "rairity" : "Legendary",
+            "type": "armor, leggings",
+            "recipe": {
+                "A1": "OLD_FRAGMENT:10",
+                "A2": "OLD_FRAGMENT:10",
+                "A3": "OLD_FRAGMENT:10",
+                "B1": "OLD_FRAGMENT:10",
+                "B2": "",
+                "B3": "OLD_FRAGMENT:10",
+                "C1": "OLD_FRAGMENT:10",
+                "C2": "",
+                "C3": "OLD_FRAGMENT:10",
+                 "1": {
+                    "OLD_FRAGMENT": "70"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "item_name": "Old Dragon Boots",
+            "description": [
+                "Health: +80",
+                "Defense: +90",
+                "",
+                "Full Set Bonus: Old Blood",
+                "Increases the strength of",
+                "Growth, Protection,",
+                "9Feather Falling, Sugar Rush",
+                "and True Protection",
+                "while worn."],
+            "rairity" : "Legendary",
+            "type": "armor, boots",
+            "recipe": {
+                "A1": "",
+                "A2": "",
+                "A3": "",
+                "B1": "OLD_FRAGMENT:10",
+                "B2": "",
+                "B3": "OLD_FRAGMENT:10",
+                "C1": "OLD_FRAGMENT:10",
+                "C2": "",
+                "C3": "OLD_FRAGMENT:10",
+                 "1": {
+                    "OLD_FRAGMENT": "40"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "item_name": "Strong Dragon Helmet",
+            "description": [
+                "Strength: +25",
+                "Health: +90",
+                "Defense: +110",
+                "",
+                "Full Set Bonus: Strong Blood",
+                "Improves Aspect of the End",
+                "⋗ +75 Damage",
+                "",
+                "Instant Transmission:",
+                "⋗ +2 teleport range",
+                "⋗ +3 seconds",
+                "⋗ +5 Strength on cast"],
+            "rairity" : "Legendary",
+            "type": "armor, boots",
+            "recipe": {
+                "A1": "STRONG_FRAGMENT:10",
+                "A2": "STRONG_FRAGMENT:10",
+                "A3": "STRONG_FRAGMENT:10",
+                "B1": "STRONG_FRAGMENT:10",
+                "B2": "",
+                "B3": "STRONG_FRAGMENT:10",
+                "C1": "",
+                "C2": "",
+                "C3": "",
+                 "1": {
+                    "STRONG_FRAGMENT": "50"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "item_name": "Strong Dragon Chestplate",
+            "description": [
+                "Strength: +25",
+                "Health: +150",
+                "Defense: +160",
+                "",
+                "Full Set Bonus: Strong Blood",
+                "Improves Aspect of the End",
+                "⋗ +75 Damage",
+                "",
+                "Instant Transmission:",
+                "⋗ +2 teleport range",
+                "⋗ +3 seconds",
+                "⋗ +5 Strength on cast"],
+            "rairity" : "Legendary",
+            "type": "armor, chestplate",
+            "recipe": {
+                "A1": "STRONG_FRAGMENT:10",
+                "A2": "",
+                "A3": "STRONG_FRAGMENT:10",
+                "B1": "STRONG_FRAGMENT:10",
+                "B2": "STRONG_FRAGMENT:10",
+                "B3": "STRONG_FRAGMENT:10",
+                "C1": "STRONG_FRAGMENT:10",
+                "C2": "STRONG_FRAGMENT:10",
+                "C3": "STRONG_FRAGMENT:10",
+                 "1": {
+                    "STRONG_FRAGMENT": "80"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "item_name": "Strong Dragon Leggings",
+            "description": [
+                "Strength: +25",
+                "Health: +130",
+                "Defense: +140",
+                "",
+                "Full Set Bonus: Strong Blood",
+                "Improves Aspect of the End",
+                "⋗ +75 Damage",
+                "",
+                "Instant Transmission:",
+                "⋗ +2 teleport range",
+                "⋗ +3 seconds",
+                "⋗ +5 Strength on cast"],
+            "rairity" : "Legendary",
+            "type": "armor, leggings",
+            "recipe": {
+                "A1": "STRONG_FRAGMENT:10",
+                "A2": "STRONG_FRAGMENT:10",
+                "A3": "STRONG_FRAGMENT:10",
+                "B1": "STRONG_FRAGMENT:10",
+                "B2": "",
+                "B3": "STRONG_FRAGMENT:10",
+                "C1": "STRONG_FRAGMENT:10",
+                "C2": "",
+                "C3": "STRONG_FRAGMENT:10",
+                 "1": {
+                    "STRONG_FRAGMENT": "70"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "item_name": "Strong Dragon Boots",
+            "description": [
+                "Strength: +25",
+                "Health: +80",
+                "Defense: +90",
+                "",
+                "Full Set Bonus: Strong Blood",
+                "Improves Aspect of the End",
+                "⋗ +75 Damage",
+                "",
+                "Instant Transmission:",
+                "⋗ +2 teleport range",
+                "⋗ +3 seconds",
+                "⋗ +5 Strength on cast"],
+            "rairity" : "Legendary",
+            "type": "armor, boots",
+            "recipe": {
+                "A1": "",
+                "A2": "",
+                "A3": "",
+                "B1": "STRONG_FRAGMENT:10",
+                "B2": "",
+                "B3": "STRONG_FRAGMENT:10",
+                "C1": "STRONG_FRAGMENT:10",
+                "C2": "",
+                "C3": "STRONG_FRAGMENT:10",
+                 "1": {
+                    "STRONG_FRAGMENT": "40"
                 }
             }
         }
