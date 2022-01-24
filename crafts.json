@@ -172,7 +172,7 @@
             }
         },
         {
-            "id": 2,
+            "id": 6,
             "item_name": "Old Dragon Helmet",
             "description": [
                 "Health: +90",
@@ -202,7 +202,7 @@
             }
         },
         {
-            "id": 3,
+            "id": 7,
             "item_name": "Old Dragon Chestplate",
             "description": [
                 "Health: +150",
@@ -211,7 +211,7 @@
                 "Full Set Bonus: Old Blood",
                 "Increases the strength of",
                 "Growth, Protection,",
-                "9Feather Falling, Sugar Rush",
+                "Feather Falling, Sugar Rush",
                 "and True Protection",
                 "while worn."],
             "rairity" : "Legendary",
@@ -232,7 +232,7 @@
             }
         },
         {
-            "id": 4,
+            "id": 8,
             "item_name": "Old Dragon Leggings",
             "description": [
                 "Health: +130",
@@ -262,7 +262,7 @@
             }
         },
         {
-            "id": 5,
+            "id": 9,
             "item_name": "Old Dragon Boots",
             "description": [
                 "Health: +80",
@@ -292,7 +292,7 @@
             }
         },
         {
-            "id": 2,
+            "id": 10,
             "item_name": "Strong Dragon Helmet",
             "description": [
                 "Strength: +25",
@@ -325,7 +325,7 @@
             }
         },
         {
-            "id": 3,
+            "id": 11,
             "item_name": "Strong Dragon Chestplate",
             "description": [
                 "Strength: +25",
@@ -358,7 +358,7 @@
             }
         },
         {
-            "id": 4,
+            "id": 12,
             "item_name": "Strong Dragon Leggings",
             "description": [
                 "Strength: +25",
@@ -391,7 +391,7 @@
             }
         },
         {
-            "id": 5,
+            "id": 13,
             "item_name": "Strong Dragon Boots",
             "description": [
                 "Strength: +25",
