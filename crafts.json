@@ -175,7 +175,7 @@
             "id": 6,
             "item_name": "Holy Dragon Helmet",
             "description": [
-                "Health: +90",
+                "Health: +110",
                 "Defense: +110",
                 "",
                 "Full Set Bonus: Holy Blood",
@@ -203,7 +203,7 @@
             "id": 7,
             "item_name": "Holy Dragon Chestplate",
             "description": [
-                "Health: +150",
+                "Health: +180",
                 "Defense: +160",
                 "",
                 "Full Set Bonus: Holy Blood",
@@ -231,7 +231,7 @@
             "id": 8,
             "item_name": "Holy Dragon Leggings",
             "description": [
-                "Health: +130",
+                "Health: +155",
                 "Defense: +140",
                 "",
                 "Full Set Bonus: Holy Blood",
@@ -259,7 +259,7 @@
             "id": 9,
             "item_name": "Holy Dragon Boots",
             "description": [
-                "Health: +80",
+                "Health: +100",
                 "Defense: +90",
                 "",
                 "Full Set Bonus: Holy Blood",
@@ -287,9 +287,9 @@
             "id": 10,
             "item_name": "Wise Dragon Helmet",
             "description": [
-                "Health: +90",
+                "Health: +70",
                 "Defense: +110",
-                "Intelligence: +75",
+                "Intelligence: +125",
                 "",
                 "Full Set Bonus: Wise Blood",
                 "Abilities have 2/3 of the mana cost."],
@@ -314,7 +314,7 @@
             "id": 11,
             "item_name": "Wise Dragon Chestplate",
             "description": [
-                "Health: +150",
+                "Health: +120",
                 "Defense: +160",
                 "Intelligence: +75",
                 "",
@@ -341,7 +341,7 @@
             "id": 12,
             "item_name": "Wise Dragon Leggings",
             "description": [
-                "Health: +130",
+                "Health: +100",
                 "Defense: +140",
                 "Intelligence: +75",
                 "",
@@ -368,7 +368,7 @@
             "id": 13,
             "item_name": "Wise Dragon Boots",
             "description": [
-                "Health: +80",
+                "Health: +60",
                 "Defense: +90",
                 "Intelligence: +75",
                 "",
@@ -516,7 +516,7 @@
             "item_name": "Strong Dragon Helmet",
             "description": [
                 "Strength: +25",
-                "Health: +90",
+                "Health: +70",
                 "Defense: +110",
                 "",
                 "Full Set Bonus: Strong Blood",
@@ -549,7 +549,7 @@
             "item_name": "Strong Dragon Chestplate",
             "description": [
                 "Strength: +25",
-                "Health: +150",
+                "Health: +120",
                 "Defense: +160",
                 "",
                 "Full Set Bonus: Strong Blood",
@@ -582,7 +582,7 @@
             "item_name": "Strong Dragon Leggings",
             "description": [
                 "Strength: +25",
-                "Health: +130",
+                "Health: +100",
                 "Defense: +140",
                 "",
                 "Full Set Bonus: Strong Blood",
@@ -615,7 +615,7 @@
             "item_name": "Strong Dragon Boots",
             "description": [
                 "Strength: +25",
-                "Health: +80",
+                "Health: +60",
                 "Defense: +90",
                 "",
                 "Full Set Bonus: Strong Blood",
@@ -772,6 +772,351 @@
                 "C3": "SUPERIOR_FRAGMENT:10",
                  "1": {
                     "SUPERIOR_FRAGMENT": "40"
+                }
+            }
+        },
+        {
+            "id": 26,
+            "item_name": "Unstable Dragon Helmet",
+            "description": [
+                "Crit Chance: +5%",
+                "Crit Damage: +15%",
+                "Health: +70",
+                "Defense: +110",
+                "Intelligence: +25",
+                "",
+                "Full Set Bonus: Unstable Blood",
+                "Sometimes strikes nearby mobs with lightning.",
+                "It's unstable!"],
+            "rairity" : "Legendary",
+            "type": "armor, boots",
+            "recipe": {
+                "A1": "UNSTABLE_FRAGMENT:10",
+                "A2": "UNSTABLE_FRAGMENT:10",
+                "A3": "UNSTABLE_FRAGMENT:10",
+                "B1": "UNSTABLE_FRAGMENT:10",
+                "B2": "",
+                "B3": "UNSTABLE_FRAGMENT:10",
+                "C1": "",
+                "C2": "",
+                "C3": "",
+                 "1": {
+                    "UNSTABLE_FRAGMENT": "50"
+                }
+            }
+        },
+        {
+            "id": 27,
+            "item_name": "Unstable Dragon Chestplate",
+            "description": [
+                "Crit Chance: +5%",
+                "Crit Damage: +15%",
+                "Health: +120",
+                "Defense: +160", 
+                "",
+                "Full Set Bonus: Unstable Blood",
+                "Sometimes strikes nearby mobs with lightning.",
+                "It's unstable!"],
+            "rairity" : "Legendary",
+            "type": "armor, chestplate",
+            "recipe": {
+                "A1": "UNSTABLE_FRAGMENT:10",
+                "A2": "",
+                "A3": "UNSTABLE_FRAGMENT:10",
+                "B1": "UNSTABLE_FRAGMENT:10",
+                "B2": "UNSTABLE_FRAGMENT:10",
+                "B3": "UNSTABLE_FRAGMENT:10",
+                "C1": "UNSTABLE_FRAGMENT:10",
+                "C2": "UNSTABLE_FRAGMENT:10",
+                "C3": "UNSTABLE_FRAGMENT:10",
+                 "1": {
+                    "UNSTABLE_FRAGMENT": "80"
+                }
+            }
+        },
+        {
+            "id": 28,
+            "item_name": "Unstable Dragon Leggings",
+            "description": [
+                "Crit Chance: +5%",
+                "Crit Damage: +15%",
+                "Health: +100",
+                "Defense: +140",
+                "",
+                "Full Set Bonus: Unstable Blood",
+                "Sometimes strikes nearby mobs with lightning.",
+                "It's unstable!"],
+            "rairity" : "Legendary",
+            "type": "armor, leggings",
+            "recipe": {
+                "A1": "UNSTABLE_FRAGMENT:10",
+                "A2": "UNSTABLE_FRAGMENT:10",
+                "A3": "UNSTABLE_FRAGMENT:10",
+                "B1": "UNSTABLE_FRAGMENT:10",
+                "B2": "",
+                "B3": "UNSTABLE_FRAGMENT:10",
+                "C1": "UNSTABLE_FRAGMENT:10",
+                "C2": "",
+                "C3": "UNSTABLE_FRAGMENT:10",
+                 "1": {
+                    "UNSTABLE_FRAGMENT": "70"
+                }
+            }
+        },
+        {
+            "id": 29,
+            "item_name": "Unstable Dragon Boots",
+            "description": [
+                "Crit Chance: +5%",
+                "Crit Damage: +15%",
+                "Health: +60",
+                "Defense: +90",
+                "",
+                "Full Set Bonus: Unstable Blood",
+                "Sometimes strikes nearby mobs with lightning.",
+                "It's unstable!"],
+            "rairity" : "Legendary",
+            "type": "armor, boots",
+            "recipe": {
+                "A1": "",
+                "A2": "",
+                "A3": "",
+                "B1": "UNSTABLE_FRAGMENT:10",
+                "B2": "",
+                "B3": "UNSTABLE_FRAGMENT:10",
+                "C1": "UNSTABLE_FRAGMENT:10",
+                "C2": "",
+                "C3": "UNSTABLE_FRAGMENT:10",
+                 "1": {
+                    "UNSTABLE_FRAGMENT": "40"
+                }
+            }
+        },
+        {
+            "id": 30,
+            "item_name": "Protector Dragon Helmet",
+            "description": [
+                "Health: +70",
+                "Defense: +135",
+                "",
+                "Full Set Bonus: Protective Blood",
+                "Increases the defense of each",
+                "armor piece by +1%",
+                "Defense for each missing",
+                "percent of HP."   ],
+            "rairity" : "Legendary",
+            "type": "armor, boots",
+            "recipe": {
+                "A1": "PROTECTOR_FRAGMENT:10",
+                "A2": "PROTECTOR_FRAGMENT:10",
+                "A3": "PROTECTOR_FRAGMENT:10",
+                "B1": "PROTECTOR_FRAGMENT:10",
+                "B2": "",
+                "B3": "PROTECTOR_FRAGMENT:10",
+                "C1": "",
+                "C2": "",
+                "C3": "",
+                 "1": {
+                    "PROTECTOR_FRAGMENT": "50"
+                }
+            }
+        },
+        {
+            "id": 31,
+            "item_name": "Protector Dragon Chestplate",
+            "description": [
+                "Health: +120",
+                "Defense: +185",
+                "",
+                "Full Set Bonus: Protective Blood",
+                "Increases the defense of each",
+                "armor piece by +1%",
+                "Defense for each missing",
+                "percent of HP."   ],
+            "rairity" : "Legendary",
+            "type": "armor, chestplate",
+            "recipe": {
+                "A1": "PROTECTOR_FRAGMENT:10",
+                "A2": "",
+                "A3": "PROTECTOR_FRAGMENT:10",
+                "B1": "PROTECTOR_FRAGMENT:10",
+                "B2": "PROTECTOR_FRAGMENT:10",
+                "B3": "PROTECTOR_FRAGMENT:10",
+                "C1": "PROTECTOR_FRAGMENT:10",
+                "C2": "PROTECTOR_FRAGMENT:10",
+                "C3": "PROTECTOR_FRAGMENT:10",
+                 "1": {
+                    "PROTECTOR_FRAGMENT": "80"
+                }
+            }
+        },
+        {
+            "id": 32,
+            "item_name": "Protector Dragon Leggings",
+            "description": [
+                "Health: +100",
+                "Defense: +165",
+                "",
+                "Full Set Bonus: Protective Blood",
+                "Increases the defense of each",
+                "armor piece by +1%",
+                "Defense for each missing",
+                "percent of HP."   ],
+            "rairity" : "Legendary",
+            "type": "armor, leggings",
+            "recipe": {
+                "A1": "PROTECTOR_FRAGMENT:10",
+                "A2": "PROTECTOR_FRAGMENT:10",
+                "A3": "PROTECTOR_FRAGMENT:10",
+                "B1": "PROTECTOR_FRAGMENT:10",
+                "B2": "",
+                "B3": "PROTECTOR_FRAGMENT:10",
+                "C1": "PROTECTOR_FRAGMENT:10",
+                "C2": "",
+                "C3": "PROTECTOR_FRAGMENT:10",
+                 "1": {
+                    "PROTECTOR_FRAGMENT": "70"
+                }
+            }
+        },
+        {
+            "id": 33,
+            "item_name": "Protector Dragon Boots",
+            "description": [
+                "Health: +60",
+                "Defense: +115",
+                "",
+                "Full Set Bonus: Protective Blood",
+                "Increases the defense of each",
+                "armor piece by +1%",
+                "Defense for each missing",
+                "percent of HP."],
+            "rairity" : "Legendary",
+            "type": "armor, boots",
+            "recipe": {
+                "A1": "",
+                "A2": "",
+                "A3": "",
+                "B1": "PROTECTOR_FRAGMENT:10",
+                "B2": "",
+                "B3": "PROTECTOR_FRAGMENT:10",
+                "C1": "PROTECTOR_FRAGMENT:10",
+                "C2": "",
+                "C3": "PROTECTOR_FRAGMENT:10",
+                 "1": {
+                    "PROTECTOR_FRAGMENT": "40"
+                }
+            }
+        },
+        {
+            "id": 34,
+            "item_name": "Sorrow helmet",
+            "description": [
+                "Magic Find: +5",
+                "True Defense: +75",
+                "Mining Speed: +50",
+                "Mining Fortune: +20",
+                "",
+                "Ability: Mist Aura",
+                "Hides the wearer in a guise of mist."],
+            "rairity" : "Legendary",
+            "type": "armor, helmet",
+            "recipe": {
+                "A1": "SORROW:3",
+                "A2": "SORROW:3",
+                "A3": "SORROW:3",
+                "B1": "SORROW:3",
+                "B2": "",
+                "B3": "SORROW:3",
+                "C1": "",
+                "C2": "",
+                "C3": "",
+                 "1": {
+                    "SORROW": "15"
+                }
+            }
+        },
+        {
+            "id": 35,
+            "item_name": "Sorrow chestplate",
+            "description": [
+                "Magic Find: +5",
+                "True Defense: +75",
+                "Mining Speed: +50",
+                "Mining Fortune: +20",
+                "",
+                "Ability: Mist Aura",
+                "Hides the wearer in a guise of mist."],
+            "rairity" : "Legendary",
+            "type": "armor, chestplate",
+            "recipe": {
+                "A1": "SORROW:3",
+                "A2": "",
+                "A3": "SORROW:3",
+                "B1": "SORROW:3",
+                "B2": "SORROW:3",
+                "B3": "SORROW:3",
+                "C1": "SORROW:3",
+                "C2": "SORROW:3",
+                "C3": "SORROW:3",
+                 "1": {
+                    "SORROW": "24"
+                }
+            }
+        },
+        {
+            "id": 36,
+            "item_name": "Sorrow leggings",
+            "description": [
+                "Magic Find: +5",
+                "True Defense: +75",
+                "Mining Speed: +50",
+                "Mining Fortune: +20",
+                "",
+                "Ability: Mist Aura",
+                "Hides the wearer in a guise of mist."],
+            "rairity" : "Legendary",
+            "type": "armor, leggings",
+            "recipe": {
+                "A1": "SORROW:3",
+                "A2": "SORROW:3",
+                "A3": "SORROW:3",
+                "B1": "SORROW:3",
+                "B2": "",
+                "B3": "SORROW:3",
+                "C1": "SORROW:3",
+                "C2": "",
+                "C3": "SORROW:3",
+                 "1": {
+                    "SORROW": "21"
+                }
+            }
+        },
+        {
+            "id": 37,
+            "item_name": "Sorrow boots",
+            "description": [
+                "Magic Find: +5",
+                "True Defense: +75",
+                "Mining Speed: +50",
+                "Mining Fortune: +20",
+                "",
+                "Ability: Mist Aura",
+                "Hides the wearer in a guise of mist."],
+            "rairity" : "Legendary",
+            "type": "armor, boots",
+            "recipe": {
+                "A1": "",
+                "A2": "",
+                "A3": "",
+                "B1": "SORROW:3",
+                "B2": "",
+                "B3": "SORROW:3",
+                "C1": "SORROW:3",
+                "C2": "",
+                "C3": "SORROW:3",
+                 "1": {
+                    "SORROW": "12"
                 }
             }
         }
