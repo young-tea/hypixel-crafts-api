@@ -12,23 +12,23 @@ All crafts have their own ID starting from zero.
 
 There is structure of items in api:
 
-"id": ,
-  "item_name": "",
-  "description": "",
-  "rairity" : "",
-  "type": "",
-  "recipe": {
-    "A1": "",
-    "A2": "",
-    "A3": "",
-    "B1": "",
-    "B2": "",
-    "B3": "",
-    "C1": "",
-    "C2": "",
-    "C3": "",
-    "1": {
-      "item": "summ"
-      }
-   },
+"id": , <br>
+  "item_name": "", <br>
+  "description": "", <br>
+  "rairity" : "", <br>
+  "type": "", <br>
+  "recipe": { <br>
+    "A1": "", <br>
+    "A2": "", <br>
+    "A3": "", <br>
+    "B1": "", <br>
+    "B2": "", <br>
+    "B3": "", <br>
+    "C1": "", <br>
+    "C2": "", <br>
+    "C3": "", <br>
+    "1": { <br>
+      "item": "summ" <br>
+      } <br>
+   }, <br>
    "other": "Requires: "
