@@ -1,0 +1,124 @@
+/* global styles */
+body{
+    background-color: #353535;
+}
+html {
+    font-family: Montserrat,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    line-height: 1.5;
+}
+
+*, a {
+    font-family: Montserrat,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+
+a{
+    color: #FFF;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #f3b924;
+}
+
+.shadow-lg {
+    box-shadow: 0 10px 15px -3px rgba(0,0,0,.25)!important;
+}
+
+h2{
+    font-family: Montserrat,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #fff;
+}
+
+h4{
+    font-family: Montserrat,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #fff;
+}
+
+p{
+    font-family: Montserrat,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    color: #fff;
+}
+
+/* content */
+
+.text-center {
+    text-align: center!important;
+}
+
+.logo{
+    width: 20%;
+}
+
+.nav-link{
+    color: #8C8C8C;
+    font-weight: 50;
+    font-size: 1.1rem;
+    padding: 4px 8px;
+}
+
+.nav-link:hover {
+    color: #f3b924;
+}
+
+.margin-10{
+    margin-bottom: 10%;
+}
+
+.card{
+    background-color: #444;
+    border: none;
+    border-radius: 10px;
+}
+
+.card-title{
+    color: #FFF;
+}
+
+.navbar{
+    background-color: #353535;
+    box-shadow: 0px 15px 15px -3px rgba(0,0,0,0.1);
+}
+
+.link-button{
+    background-color: rgba(0,0,0,0.2);
+    padding: 1%;
+    border-radius: 7px;
+}
+
+.link-button:hover{
+    background-color: #444;
+    padding: 1%;
+    border-radius: 7px;
+}
+
+
+
+
+
+
+
+/* scrollbar */
+
+/* the width of srollbar */
+::-webkit-scrollbar {
+	width: 7px;
+}
+
+/*the background color of scrollbar*/
+
+::-webkit-scrollbar-track {
+  background: #606060;
+  border-radius: 15px;
+}
+
+/* the actual sccrollbar (part that is moving) */
+
+::-webkit-scrollbar-thumb {
+  background: #F59E0b;
+  border-radius: 50px;
+}
+
+/* on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #f3b924;
+}
