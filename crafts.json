@@ -1119,6 +1119,121 @@
                     "SORROW": "12"
                 }
             }
+        },
+        {
+            "id": 38,
+            "item_name": "Heat helmet",
+            "description": [
+                "Health: +20",
+                "Defense: +20",
+                "Mining Speed: +10",
+                "Mining Fortune: +5",
+                "",
+                "Full Set Bonus: Heat Resistance",
+                "Grants 2x reduced heat",
+                "increase in Magma Fields."],
+            "rairity" : "Rare",
+            "type": "armor, helmet",
+            "recipe": {
+                "A1": "HARD_STONE:40",
+                "A2": "HARD_STONE:40",
+                "A3": "HARD_STONE:40",
+                "B1": "HARD_STONE:40",
+                "B2": "",
+                "B3": "HARD_STONE:40",
+                "C1": "",
+                "C2": "",
+                "C3": "",
+                 "1": {
+                    "HARD_STONE": "200"
+                }
+            }
+        },
+        {
+            "id": 39,
+            "item_name": "Heat chestplate",
+            "description": [
+                "Health: +35",
+                "Defense: +35",
+                "Mining Speed: +10",
+                "Mining Fortune: +5",
+                "",
+                "Full Set Bonus: Heat Resistance",
+                "Grants 2x reduced heat",
+                "increase in Magma Fields."],
+            "rairity" : "Rare",
+            "type": "armor, chestplate",
+            "recipe": {
+                "A1": "HARD_STONE:40",
+                "A2": "",
+                "A3": "HARD_STONE:40",
+                "B1": "HARD_STONE:40",
+                "B2": "HARD_STONE:40",
+                "B3": "HARD_STONE:40",
+                "C1": "HARD_STONE:40",
+                "C2": "HARD_STONE:40",
+                "C3": "HARD_STONE:40",
+                 "1": {
+                    "HARD_STONE": "320"
+                }
+            }
+        },
+        {
+            "id": 40,
+            "item_name": "Heat leggings",
+            "description": [
+                "Health: +30",
+                "Defense: +30",
+                "Mining Speed: +10",
+                "Mining Fortune: +5",
+                "",
+                "Full Set Bonus: Heat Resistance",
+                "Grants 2x reduced heat",
+                "increase in Magma Fields."],
+            "rairity" : "Rare",
+            "type": "armor, leggings",
+            "recipe": {
+                "A1": "HARD_STONE:40",
+                "A2": "HARD_STONE:40",
+                "A3": "HARD_STONE:40",
+                "B1": "HARD_STONE:40",
+                "B2": "",
+                "B3": "HARD_STONE:40",
+                "C1": "HARD_STONE:40",
+                "C2": "",
+                "C3": "HARD_STONE:40",
+                 "1": {
+                    "HARD_STONE": "280"
+                }
+            }
+        },{
+            "id": 41,
+            "item_name": "Heat boots",
+            "description": [
+                "Health: +20",
+                "Defense: +20",
+                "Mining Speed: +10",
+                "Mining Fortune: +5",
+                "",
+                "Full Set Bonus: Heat Resistance",
+                "Grants 2x reduced heat",
+                "increase in Magma Fields."],
+            "rairity" : "Rare",
+            "type": "armor, cboots",
+            "recipe": {
+                "A1": "",
+                "A2": "",
+                "A3": "",
+                "B1": "HARD_STONE:40",
+                "B2": "",
+                "B3": "HARD_STONE:40",
+                "C1": "HARD_STONE:40",
+                "C2": "",
+                "C3": "HARD_STONE:40",
+                 "1": {
+                    "HARD_STONE": "160"
+                }
+            }
         }
     ]
 }
